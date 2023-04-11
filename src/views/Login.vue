@@ -81,6 +81,13 @@
                 password: ''
             }
         },
+        watch: {
+            password(newPassword, oldPassword) {
+                if(newPassword.length === 6){
+                    this.submit()
+                }
+            }
+        },
         mounted() {
             window.addEventListener('keyup', this.keyup);
             

@@ -1,5 +1,8 @@
 # Litarvan's LightDM WebKit2 theme
 
+## The Difference between [Litarvan repo](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) is the following:
+- When 6 characters have been introduced as the password, lightdm will try to use it automatically to log in, aka, no need to press the enter key on your keyboard.
+
 [![Arch Release](https://img.shields.io/badge/arch-3.2.0-blue.svg?style=flat-square)](https://www.archlinux.org/packages/community/any/lightdm-webkit-theme-litarvan/) &nbsp;[![Latest Release](https://img.shields.io/github/release/Litarvan/lightdm-webkit-theme-litarvan.svg?style=flat-square&label=github)](https://github.com/Litarvan/lightdm-webkit-theme-litarvan/releases) &nbsp;![Github downloads](https://img.shields.io/github/downloads/Litarvan/lightdm-webkit-theme-litarvan/total.svg?style=flat-square)
 
 **=> Screenshots below**
